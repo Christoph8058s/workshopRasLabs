@@ -1,3 +1,5 @@
 firstChange
-hello local
+<<<<<<< HEAD
+hello local fixed
+
 
